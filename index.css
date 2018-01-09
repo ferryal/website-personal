@@ -32,6 +32,7 @@ body {
 
 .myWord {
   border: 2px solid white;
+  margin: 0;
 }
 
 a:link {
@@ -55,7 +56,7 @@ a:visited{
 }
 
 footer {
-  padding-top: 100px;
+  padding-top: 150px;
   display: block;
 }
 
