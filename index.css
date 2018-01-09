@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+  color: white;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+title {
+  letter-spacing: 3px;
+}
+
+
+.portofolio-header{
+  font-family: Courgette, cursive;
+  margin: 20px auto;
+  padding-top: 170px;
+  max-width: 700px;
+  align-items: center;
+  text-align: center;
+  font-size: 1.5rem;
+
+}
+
+.links {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 0.3rem;
+}
+
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: #B0C4DE;
+}
+
+a:active{
+  color: white;
+}
+
+a:visited{
+  color: white;
+}
