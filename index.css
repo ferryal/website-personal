@@ -5,10 +5,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
-}
-
-title {
-  letter-spacing: 3px;
+  padding-top: 60px;
 }
 
 
@@ -30,6 +27,11 @@ title {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-size: 0.3rem;
+  margin-bottom: 100px;
+}
+
+.myWord {
+  border: 2px solid white;
 }
 
 a:link {
@@ -46,4 +48,41 @@ a:active{
 
 a:visited{
   color: white;
+}
+
+.twitter {
+  padding-top: 100px;
+}
+
+footer {
+  padding-top: 100px;
+  display: block;
+}
+
+a.fo-github:hover {
+  color: #696969;
+}
+
+a.fo-twitter:hover {
+    color: #55acee;
+}
+
+a.fo-facebook:hover {
+  color: #3b5998;
+}
+
+a.fo-instagram:hover {
+  color: #e95950;
+}
+
+a.fo-linkedin:hover {
+  color: #007bb5;
+}
+
+a.fo-mail:hover{
+  color: #696969;
+}
+
+a.fo-codepen:hover{
+  color: #696969;
 }
