@@ -1,5 +1,5 @@
 var typer = {
-  words: ['Software Developer', 'Maker', 'Forward-Thinker'],
+  words: ['Moslem', 'Fullstack Web ', 'Software Developer', 'Maker', 'Forward-Thinker', 'Impactfulness'],
   wordIndex: 0,
   speed: 150,
   nextWordWait: 1000,
