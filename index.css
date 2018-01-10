@@ -33,7 +33,7 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-size: 0.3rem;
+  font-size: 0.5em;
   margin-bottom: 100px;
 }
 .word{
@@ -171,5 +171,5 @@ footer#connect {
 }
 
 #about {
-  font-size: 0.7rem;
+  font-size: 1rem;
 }
