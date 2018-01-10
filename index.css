@@ -77,75 +77,63 @@ a:visited{
   color: white;
 }
 
-.twitter {
-  padding-top: 100px;
-}
-
-footer {
-  padding-top: 150px;
-  display: block;
-
-}
-
-a.fo-github:hover {
+.fa-github:hover {
   color: #696969;
 }
 
-a.fo-github:visited {
+.fa-github:visited {
   color: white;
 }
 
-a.fo-twitter:hover {
+.fa-twitter:hover {
     color: #55acee;
 }
 
-a.fo-twitter:visited {
+.fa-twitter:visited {
   color: white;
 }
 
-a.fo-facebook:hover {
+.fa-facebook:hover {
   color: #3b5998;
 }
 
-a.fo-facebook:visited {
+.fo-facebook:visited {
   color: white
 }
 
-a.fo-instagram:hover {
+.fa-instagram:hover {
   color: #e95950;
 }
 
-a.fo-instagram:visited {
+.fa-instagram:visited {
   color:  white;
 }
 
-a.fo-linkedin:hover {
+.fa-linkedin:hover {
   color: #007bb5;
 }
 
-a.fo-linkedin:visited {
+.fa-linkedin:visited {
   color: white;
 }
 
-a.fo-mail:hover{
+.fa-mail:hover{
   color: #696969;
 }
 
-a.fo-mail:visited {
+.fa-mail:visited {
   color: white;
 }
 
-a.fo-codepen:hover{
+.fa-codepen:hover{
   color: #696969;
+
 }
 
-a.fo-codepen:visited {
+.fa-codepen:visited {
   color: white;
 }
 
-#fo-links {
-  margin: auto;
-}
 footer#connect {
   background-color: black;
   color: #ffffff;
@@ -156,13 +144,12 @@ footer#connect {
   z-index: 1;
 }
 
-ul {
 
-}
 .mdl-mini-footer {
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-between;
+  justify-content: center;
+  line-height: 10px;
 }
 
 .mdl-mini-footer__link_list {
