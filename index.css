@@ -41,8 +41,6 @@ body {
    top: 0px;
    left: 0px;
    min-height: 1em;
-   padding-left: 150px;
-
 }
 
 .word .cursor{
@@ -93,28 +91,56 @@ a.fo-github:hover {
   color: #696969;
 }
 
+a.fo-github:visited {
+  color: white;
+}
+
 a.fo-twitter:hover {
     color: #55acee;
+}
+
+a.fo-twitter:visited {
+  color: white;
 }
 
 a.fo-facebook:hover {
   color: #3b5998;
 }
 
+a.fo-facebook:visited {
+  color: white
+}
+
 a.fo-instagram:hover {
   color: #e95950;
+}
+
+a.fo-instagram:visited {
+  color:  white;
 }
 
 a.fo-linkedin:hover {
   color: #007bb5;
 }
 
+a.fo-linkedin:visited {
+  color: white;
+}
+
 a.fo-mail:hover{
   color: #696969;
 }
 
+a.fo-mail:visited {
+  color: white;
+}
+
 a.fo-codepen:hover{
   color: #696969;
+}
+
+a.fo-codepen:visited {
+  color: white;
 }
 
 #fo-links {
@@ -144,4 +170,19 @@ ul {
   flex-flow: row nowrap;
   list-style: none;
   padding: 0;
+}
+
+.mdl-mini-footer__link_list li {
+  margin-right: 16px;
+  margin-bottom: 0;
+}
+
+#slogan  {
+  padding-bottom: 10px;
+  font-size: 0.5em;
+  font-family:
+}
+
+#about {
+  font-size: 0.7rem;
 }
